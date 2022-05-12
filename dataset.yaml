@@ -1,5 +1,5 @@
 train: ../dataset/images/train/
-vval: ../dataset/images/val/
+val: ../dataset/images/val/
 
 nc: 3
 
