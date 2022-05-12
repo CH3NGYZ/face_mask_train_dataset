@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>N95_02.jpg</filename>
+	<path>C:\Users\86130\Desktop\2\N95_02.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>N95</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>205</ymin>
+			<xmax>268</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

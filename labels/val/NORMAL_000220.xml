@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>test_00001380.jpg</filename>
+	<path>E:\ChenG\Desktop\压缩包\JPEGImages\test_00001380.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>674</width>
+		<height>801</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>395</ymin>
+			<xmax>518</xmax>
+			<ymax>618</ymax>
+		</bndbox>
+	</object>
+</annotation>

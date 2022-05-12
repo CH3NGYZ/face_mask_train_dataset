@@ -1,0 +1,6 @@
+train: ../dataset/images/train/
+vval: ../dataset/images/val/
+
+nc: 3
+
+names: ["Normal", "N95", "scissor"]

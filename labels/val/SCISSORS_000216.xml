@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sunxiaowei_jpj</folder>
+	<filename>SCISSORS_000216.jpg</filename>
+	<path>F:\新建文件夹\sunxiaowei_jpj\SCISSORS_000216.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>667</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scissor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>19</ymin>
+			<xmax>550</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>

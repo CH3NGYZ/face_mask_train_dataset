@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pics</folder>
+	<filename>000176.jpg</filename>
+	<path>E:\ChenG\Desktop\pics\000176.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>N95</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>126</ymin>
+			<xmax>450</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

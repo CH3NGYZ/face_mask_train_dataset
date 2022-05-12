@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wanglinkai_jpg</folder>
+	<filename>SCISSORS_000129.jpg</filename>
+	<path>C:\Users\yukino\Desktop\wanglinkai_jpg\SCISSORS_000129.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>630</width>
+		<height>472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scissor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>70</ymin>
+			<xmax>451</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>N95_46.jpg</filename>
+	<path>C:\Users\yukino\Desktop\1\N95_46.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>N95</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>117</ymin>
+			<xmax>396</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+</annotation>
