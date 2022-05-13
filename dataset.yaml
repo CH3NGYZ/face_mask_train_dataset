@@ -3,4 +3,4 @@ val: /content/drive/MyDrive/yolov5/data/dataset/images/val/
 
 nc: 3
 
-names: ["Normal", "N95", "scissor"]
+names: ["N95", "Normal",  "scissor"]
