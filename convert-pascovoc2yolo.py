@@ -25,6 +25,9 @@ from os.path import join
 # 运行脚本。在运行脚本时，每个给定的目录将包含一个包含所有yolo txt文件的“yolo”文件夹。对于每个给定的目录，将在cwd中创建一个包含所有图像路径的文本文件。
 
 # 确保将图像和xml文件放在train的根目录中。像这样(图片在注释中)，这里我的文件夹名称是VOCData, yolo文件夹是由脚本生成的。
+
+# sudo kill -9 `sudo fuser /dev/video0 | tr -cd "[0-9]" `
+
 dirs = ['train', 'val']
 classes = ['N95', 'Normal', 'scissor']
 
