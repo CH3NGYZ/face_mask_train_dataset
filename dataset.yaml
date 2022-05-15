@@ -3,4 +3,4 @@ val: /content/drive/MyDrive/yolov5/data/dataset/images/val/
 
 nc: 3
 
-names: ["N95", "Normal",  "scissor"]
+names: ["N95口罩", "普通口罩",  "剪刀"]
